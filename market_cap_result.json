@@ -1,0 +1,58 @@
+{
+  "total_market_cap_usd": 9193183363.982788,
+  "token_count": 3,
+  "tokens": [
+    {
+      "token_address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "chain": "ethereum",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "price_usd": 2047.225552216331,
+      "total_supply": 2918712.1777098104,
+      "market_cap_usd": 5975262149.772496,
+      "dex_pool": "0xB4e16d0168e52d35CaCD2c6185b44281Ec28C9Dc",
+      "quote_asset": "USDC",
+      "quote_asset_gecko_id": "usd-coin"
+    },
+    {
+      "token_address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+      "chain": "bsc",
+      "name": "PancakeSwap Token",
+      "symbol": "Cake",
+      "price_usd": 1.557129325746905,
+      "total_supply": 2043718979.7510512,
+      "market_cap_usd": 3182334756.955907,
+      "dex_pool": "0x0eD7e52944161450477ee417DE9Cd3a859b14fD0",
+      "quote_asset": "WBNB",
+      "quote_asset_gecko_id": "binancecoin"
+    },
+    {
+      "token_address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+      "chain": "polygon",
+      "name": "Wrapped Polygon Ecosystem Token",
+      "symbol": "WPOL",
+      "price_usd": 0.22471883446695268,
+      "total_supply": 158359922.69538823,
+      "market_cap_usd": 35586457.25438437,
+      "dex_pool": "0x6e7a5FAFcec6BB1e78bAE2A1F0B612012BF14827",
+      "quote_asset": "USDC",
+      "quote_asset_gecko_id": "usd-coin"
+    }
+  ],
+  "errors": [],
+  "timestamp": "2025-03-10T00:31:07.786154",
+  "divisor_token": {
+    "token_address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "chain": "ethereum",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "price_usd": 0.9987219806564557,
+    "total_supply": 38353329403.662865,
+    "market_cap_usd": 38304313106.795654,
+    "dex_pool": "0xB4e16d0168e52d35CaCD2c6185b44281Ec28C9Dc",
+    "quote_asset": "WETH",
+    "quote_asset_gecko_id": "ethereum"
+  },
+  "divisor_token_price": 0.9987219806564557,
+  "relative_market_cap": 9204947464.899239
+}
